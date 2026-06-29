@@ -1,4 +1,4 @@
-# 
+# Actualizado JetBrains WebStorm scripts para Mac OS | Avanzado JetBrains WebStorm scripts para PC Windows. Con soporte multicuenta y resolución de conflictos de fusión — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
